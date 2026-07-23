@@ -30,8 +30,6 @@ The guide explains the important statements in the program with simple examples 
 
 This guide was created to help students understand the logic behind each section of the program instead of simply copying the code.
 
-## 👨‍💻 Author
 
-**Andlib Ahmad Faiz**
 
 B.Sc. Data Science Student
